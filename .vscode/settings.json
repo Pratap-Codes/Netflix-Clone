@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "window.autoDetectColorScheme": true,
+    "screencastMode.mouseIndicatorColor": "#ff0000",
+    "terminal.explorerKind": "external"
+}
